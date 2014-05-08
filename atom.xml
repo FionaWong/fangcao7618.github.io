@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Fangcao's blog]]></title>
+  <subtitle><![CDATA[天空不留下鸟的痕迹，但我已飞过 ; 流星是美丽的不为永恒，只为瞬间]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://fangcao7618.github.io//"/>
+  <updated>2014-05-08T13:56:16.161Z</updated>
+  <id>http://fangcao7618.github.io//</id>
+  
+  <author>
+    <name><![CDATA[Fangcao Wang]]></name>
+    <email><![CDATA[wangfangcao7618@163.com]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[荷兰花卉小镇]]></title>
+    <link href="http://fangcao7618.github.io/2014/05/01/photo-post-fancy/"/>
+    <id>http://fangcao7618.github.io/2014/05/01/photo-post-fancy/</id>
+    <published>2014-05-01T05:31:44.000Z</published>
+    <updated>2014-05-05T03:02:20.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://d7.yihaodianimg.com/N03/M04/BB/3D/CgQCs1NPn4eAdwASAAEy5_B2WgQ08400.jpg" alt=""><br><img src="http://d7.yihaodianimg.com/N03/M04/BB/3D/CgQCs1NPn4eAdwASAAEy5_B2WgQ08400.jpg" alt="file-list"></p>
+]]></content>
+    
+    
+      <category term="博客" scheme="http://fangcao7618.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="blog" scheme="http://fangcao7618.github.io/categories/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[学习Git]]></title>
+    <link href="http://fangcao7618.github.io/2014/04/18/lean_git/"/>
+    <id>http://fangcao7618.github.io/2014/04/18/lean_git/</id>
+    <published>2014-04-18T04:04:48.000Z</published>
+    <updated>2014-04-18T04:33:32.000Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<p><a href="http://git-scm.com/" target="_blank">Git</a>是一个免费开源的分布式版本控制系统，用于以高效、迅速的方式处理从很小到非常大的项目。<br><a href="http://github.com/" target="_blank">Github</a>是程序员的名片。<br>代码，是程序员沟通的最直接的手段。</p>
+</blockquote>
+<p>使用Git应该是每一位程序员的必备技能（钟情于SVN的亲们勿喷），Git被很多IT公司使用并在开源届和圈内有着巨大的声誉，之前团队做项目经常使用的也都是SVN现在接触了Github后，学习掌握Git也成了顺理成章的事情。希望这篇短文可以帮助到Git的初学者，我们共同学习。</p>
+<p><img src="http://yangjian.me/image/2013-03-18/github.JPEG" alt="file-list"></p>
+<h2 id="Git入门">Git入门</h2>
+<p>Git本身非常容易掌握，同样学习Git也很容易，通过下面几个网站你就可以轻松掌握Git。</p>
+<blockquote>
+<ul>
+<li>Git的官方网站提供了Git的所有文档。墙内用户可以参考Git Reference。</li>
+<li>书籍：《Pro Git》提供在线的中文版和英文版。</li>
+<li>Github与Code School联合提供了一个在线互动教程：Try Git，除此之外Git Immersion也是个不错的选择。<br>各种英文看不懂？来看看Git 简易指南 。</li>
+<li>进阶篇：Git图解，Git Magic，Think like a Git。</li>
+</ul>
+</blockquote>
+<h2 id="Github入门">Github入门</h2>
+<p>Github是一群有趣的人在做的有趣的事，Github不仅仅简单的是Git服务器，更是发展成了Social Coding，在Github你可以得到的绝对超出你的想象。</p>
+<blockquote>
+<ul>
+<li>Github提供了官方的帮助信息和他们的博客。</li>
+<li>《Git权威指南》一书的作者编写的GotGitHub是一份非常好的学习资料。</li>
+<li>好文两篇：如何高效利用Github，Gthub初级运用。</li>
+</ul>
+</blockquote>
+<p>最好的学习当然是Learning by doing！<br>ps：我的Github账户 。</p>
+]]></content>
+    
+    
+      <category term="技术、博客" scheme="http://fangcao7618.github.io/tags/%E6%8A%80%E6%9C%AF%E3%80%81%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[gongsi]]></title>
+    <link href="http://fangcao7618.github.io/2014/04/16/gongsi/"/>
+    <id>http://fangcao7618.github.io/2014/04/16/gongsi/</id>
+    <published>2014-04-16T08:33:15.000Z</published>
+    <updated>2014-04-16T08:37:14.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="公式">公式</h2>
+<p>$$ 表示整行公式：</p>
+<p>$$ \sum_{i=1}^n a_i=0$$</p>
+<p>$$ f(x_1,x_x,\ldots,x_n) = x_1^2 + x_2^2 + \cdots + x_n^2 $$</p>
+<p>$$ \sum^{j-1}<em>{k=0}{\widehat{\gamma}</em>{kj} z_k}$$</p>
+<h3 id="这个每行一阶的缩进（4_个空格或是_1_个制表符），都会被移除，例如：">这个每行一阶的缩进（4 个空格或是 1 个制表符），都会被移除，例如：</h3>
+<p>Here is an example of AppleScript:</p>
+<pre><code><span class="keyword">tell</span> <span class="type">application</span> <span class="string">"Foo"</span>
+    <span class="command">beep</span>
+<span class="keyword">end</span> <span class="keyword">tell</span>
+</code></pre>]]></content>
+    
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[兼容所有浏览器的菱形]]></title>
+    <link href="http://fangcao7618.github.io/2014/04/16/diamond/"/>
+    <id>http://fangcao7618.github.io/2014/04/16/diamond/</id>
+    <published>2014-04-16T07:53:15.000Z</published>
+    <updated>2014-05-05T03:12:04.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="介绍菱形的绘制法">介绍菱形的绘制法</h2>
+<pre><code>第一种是svg、vml
+</code></pre><p>如图：</p>
+<p><img src="https://raw.githubusercontent.com/fangcao7618/fangcao7618.github.io/master/img/1.jpg" alt="图片"></p>
+<figure class="highlight"><table><tr><td class="gutter"><pre>1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+182
+183
+184
+185
+186
+187
+188
+189
+190
+191
+192
+193
+</pre></td><td class="code"><pre><span class="doctype">&lt;!doctype html&gt;</span>
+<span class="tag">&lt;<span class="title">html</span> <span class="attribute">lang</span>=<span class="value">"en"</span>&gt;</span>
+
+<span class="tag">&lt;<span class="title">head</span>&gt;</span>
+    <span class="tag">&lt;<span class="title">meta</span> <span class="attribute">charset</span>=<span class="value">"UTF-8"</span>&gt;</span>
+    <span class="tag">&lt;<span class="title">title</span>&gt;</span>菱形裁剪<span class="tag">&lt;/<span class="title">title</span>&gt;</span>
+    <span class="tag">&lt;<span class="title">script</span> <span class="attribute">type</span>=<span class="value">"text/javascript"</span> <span class="attribute">charset</span>=<span class="value">"utf-8"</span> <span class="attribute">src</span>=<span class="value">"js/raph.js"</span>&gt;</span><span class="javascript"></span><span class="tag">&lt;/<span class="title">script</span>&gt;</span>
+    <span class="tag">&lt;<span class="title">style</span> <span class="attribute">type</span>=<span class="value">"text/css"</span> <span class="attribute">charset</span>=<span class="value">"utf-8"</span>&gt;</span><span class="css">
+    <span class="id">#canvas</span> <span class="rules">{
+        <span class="rule"><span class="attribute">background-color</span>:<span class="value"> <span class="hexcolor">#F4F4F4</span></span></span>;
+        <span class="rule"><span class="attribute">left</span>:<span class="value"> <span class="number">0</span></span></span>;
+        <span class="rule"><span class="attribute">position</span>:<span class="value"> absolute</span></span>;
+        <span class="rule"><span class="attribute">top</span>:<span class="value"> <span class="number">0</span></span></span>;
+    <span class="rule">}</span></span>
+    <span class="id">#paper</span> <span class="rules">{
+        <span class="rule"><span class="attribute">left</span>:<span class="value"> <span class="number">0</span></span></span>;
+        <span class="rule"><span class="attribute">position</span>:<span class="value"> relative</span></span>;
+        <span class="rule"><span class="attribute">top</span>:<span class="value"> <span class="number">0</span></span></span>;
+    <span class="rule">}</span></span>
+    <span class="tag">h2</span> <span class="rules">{
+        <span class="rule"><span class="attribute">text-align</span>:<span class="value"> center</span></span>;
+    <span class="rule">}</span></span>
+    <span class="id">#vic1</span>, <span class="id">#vic2</span>, <span class="id">#vic3</span> <span class="rules">{
+        <span class="rule"><span class="attribute">position</span>:<span class="value">absolute</span></span>;
+        <span class="rule"><span class="attribute">left</span>:<span class="value"><span class="number">0</span></span></span>;
+        <span class="rule"><span class="attribute">top</span>:<span class="value"><span class="number">0</span></span></span>;
+    <span class="rule">}</span></span>
+    <span class="tag">shape</span>, <span class="tag">span</span> <span class="rules">{
+        <span class="rule"><span class="attribute">font-size</span>:<span class="value"> <span class="number">16</span>px</span></span>;
+        <span class="rule"><span class="attribute">font-family</span>:<span class="value"><span class="string">'Microsoft YaHei'</span></span></span>;
+        <span class="rule"><span class="attribute">color</span>:<span class="value"> <span class="hexcolor">#ffffff</span></span></span>;
+        <span class="rule"><span class="attribute">font-style</span>:<span class="value"> oblique</span></span>;
+        <span class="rule"><span class="attribute">display</span>:<span class="value">block</span></span>;
+        <span class="rule"><span class="attribute">height</span>:<span class="value"><span class="number">100</span>%</span></span>;
+        <span class="rule"><span class="attribute">width</span>:<span class="value"><span class="number">100</span>%</span></span>;
+        <span class="rule"><span class="attribute">text-align</span>:<span class="value">center</span></span>;
+        <span class="rule"><span class="attribute">background-color</span>:<span class="value"> red</span></span>;
+    <span class="rule">}</span></span>
+    </span><span class="tag">&lt;/<span class="title">style</span>&gt;</span>
+<span class="tag">&lt;/<span class="title">head</span>&gt;</span>
+
+<span class="tag">&lt;<span class="title">body</span>&gt;</span>
+    <span class="tag">&lt;<span class="title">div</span> <span class="attribute">id</span>=<span class="value">"canvas"</span>&gt;</span>
+        <span class="tag">&lt;<span class="title">div</span> <span class="attribute">id</span>=<span class="value">"paper"</span>&gt;</span>
+            <span class="tag">&lt;<span class="title">div</span> <span class="attribute">id</span>=<span class="value">"vic1"</span>&gt;</span><span class="tag">&lt;/<span class="title">div</span>&gt;</span>
+            <span class="tag">&lt;<span class="title">div</span> <span class="attribute">id</span>=<span class="value">"vic2"</span>&gt;</span><span class="tag">&lt;/<span class="title">div</span>&gt;</span>
+            <span class="tag">&lt;<span class="title">div</span> <span class="attribute">id</span>=<span class="value">"vic3"</span>&gt;</span><span class="tag">&lt;/<span class="title">div</span>&gt;</span>
+            <span class="tag">&lt;<span class="title">div</span> <span class="attribute">id</span>=<span class="value">"vic4"</span>&gt;</span><span class="tag">&lt;/<span class="title">div</span>&gt;</span>
+            <span class="tag">&lt;<span class="title">div</span> <span class="attribute">id</span>=<span class="value">"vic5"</span>&gt;</span><span class="tag">&lt;/<span class="title">div</span>&gt;</span>
+            <span class="tag">&lt;<span class="title">div</span> <span class="attribute">id</span>=<span class="value">"vic6"</span>&gt;</span><span class="tag">&lt;/<span class="title">div</span>&gt;</span>
+            <span class="tag">&lt;<span class="title">div</span> <span class="attribute">id</span>=<span class="value">"vic7"</span>&gt;</span><span class="tag">&lt;/<span class="title">div</span>&gt;</span>
+            <span class="tag">&lt;<span class="title">div</span> <span class="attribute">id</span>=<span class="value">"vic8"</span>&gt;</span><span class="tag">&lt;/<span class="title">div</span>&gt;</span>
+            <span class="tag">&lt;<span class="title">div</span> <span class="attribute">id</span>=<span class="value">"vic9"</span>&gt;</span><span class="tag">&lt;/<span class="title">div</span>&gt;</span>
+            <span class="tag">&lt;<span class="title">div</span> <span class="attribute">id</span>=<span class="value">"vic10"</span>&gt;</span><span class="tag">&lt;/<span class="title">div</span>&gt;</span>
+            <span class="tag">&lt;<span class="title">div</span> <span class="attribute">id</span>=<span class="value">"vic11"</span>&gt;</span><span class="tag">&lt;/<span class="title">div</span>&gt;</span>
+            <span class="tag">&lt;<span class="title">div</span> <span class="attribute">id</span>=<span class="value">"vic12"</span>&gt;</span><span class="tag">&lt;/<span class="title">div</span>&gt;</span>
+            <span class="tag">&lt;<span class="title">div</span> <span class="attribute">id</span>=<span class="value">"vic13"</span>&gt;</span><span class="tag">&lt;/<span class="title">div</span>&gt;</span>
+            <span class="tag">&lt;<span class="title">div</span> <span class="attribute">id</span>=<span class="value">"vic14"</span>&gt;</span><span class="tag">&lt;/<span class="title">div</span>&gt;</span>
+            <span class="tag">&lt;<span class="title">div</span> <span class="attribute">id</span>=<span class="value">"vic15"</span>&gt;</span><span class="tag">&lt;/<span class="title">div</span>&gt;</span>
+            <span class="tag">&lt;<span class="title">div</span> <span class="attribute">id</span>=<span class="value">"vic16"</span>&gt;</span><span class="tag">&lt;/<span class="title">div</span>&gt;</span>
+            <span class="tag">&lt;<span class="title">div</span> <span class="attribute">id</span>=<span class="value">"vic17"</span>&gt;</span><span class="tag">&lt;/<span class="title">div</span>&gt;</span>
+            <span class="tag">&lt;<span class="title">div</span> <span class="attribute">id</span>=<span class="value">"vic18"</span>&gt;</span><span class="tag">&lt;/<span class="title">div</span>&gt;</span>
+            <span class="tag">&lt;<span class="title">div</span> <span class="attribute">id</span>=<span class="value">"vic19"</span>&gt;</span><span class="tag">&lt;/<span class="title">div</span>&gt;</span>
+            <span class="tag">&lt;<span class="title">div</span> <span class="attribute">id</span>=<span class="value">"vic20"</span>&gt;</span><span class="tag">&lt;/<span class="title">div</span>&gt;</span>
+            <span class="tag">&lt;<span class="title">div</span> <span class="attribute">id</span>=<span class="value">"vic21"</span>&gt;</span><span class="tag">&lt;/<span class="title">div</span>&gt;</span>
+        <span class="tag">&lt;/<span class="title">div</span>&gt;</span>
+    <span class="tag">&lt;/<span class="title">div</span>&gt;</span>
+    <span class="tag">&lt;<span class="title">script</span> <span class="attribute">type</span>=<span class="value">"text/javascript"</span>&gt;</span><span class="javascript">
+    (<span class="function"><span class="keyword">function</span><span class="params">(Raphael,wh)</span> {</span>
+        <span class="keyword">var</span> attr = {
+            fill: <span class="string">"#fff"</span>,
+            stroke: <span class="string">"#BCBCBC"</span>,
+            <span class="string">"stroke-width"</span>: <span class="number">1</span>
+        },
+            attr2 = {
+                fill: <span class="string">"#F8F8F8"</span>,
+                stroke: <span class="string">"#BBBBBB"</span>,
+                <span class="string">"stroke-width"</span>: <span class="number">1</span>
+            },
+            attr3 = {
+                fill: <span class="string">"#795755"</span>,
+                stroke: <span class="string">"#BBBBBB"</span>,
+                <span class="string">"stroke-width"</span>: <span class="number">1</span>,
+                <span class="string">"opacity"</span>: <span class="string">"0"</span>,
+                <span class="string">"cursor"</span>: <span class="string">"pointer"</span>
+            },
+            attr4 = {
+                fill: <span class="string">"#fff"</span>,
+                font: <span class="string">"40px Georgia"</span>,
+                <span class="string">"opacity"</span>: <span class="string">"0"</span>,
+                <span class="string">'text-anchor'</span>: <span class="string">'start'</span>
+            },
+            x = <span class="number">30</span>/<span class="number">146</span>*wh, <span class="comment">//距离横坐标点 这里也可以根据角度而计算</span>
+            y = <span class="number">30</span>/<span class="number">146</span>*wh, <span class="comment">//距离竖坐标点 这里也可以根据角度而计算</span>
+            width = wh,
+            height = wh,
+            xiejiao = <span class="built_in">parseInt</span>(width * <span class="built_in">Math</span>.sqrt(<span class="number">2</span>)), <span class="comment">//对角线</span>
+            plength = document.getElementById(<span class="string">"paper"</span>).getElementsByTagName(<span class="string">"div"</span>).length, <span class="comment">//总个数</span>
+            itemCount = <span class="number">9</span>, <span class="comment">//每行显示的个数</span>
+            row = plength % itemCount == <span class="number">0</span> ? plength / itemCount : <span class="built_in">parseInt</span>(plength / itemCount) + <span class="number">1</span>, <span class="comment">//行数</span>
+            R = Raphael(<span class="string">"paper"</span>, xiejiao * (itemCount / <span class="number">2</span> + <span class="number">0.5</span>), xiejiao * (row + <span class="number">0.5</span>)), <span class="comment">//绘制画布宽度</span>
+            aus = {}, <span class="comment">//声明数组</span>
+            pstrs = attr,
+            temp,
+            H1 = <span class="number">0</span>,
+            L1 = <span class="string">""</span>,
+            key = <span class="string">""</span>,
+            imagesL1 = <span class="number">0</span>,
+            imagesH1 = <span class="number">0</span>,
+            _index = <span class="number">0</span>;
+
+        <span class="keyword">for</span> (<span class="keyword">var</span> i = <span class="number">0</span>; i &lt; row; i++) {
+            <span class="comment">//console.log("第" + i + "行");</span>
+            <span class="keyword">for</span> (<span class="keyword">var</span> j = <span class="number">1</span>; j &lt;= itemCount; j++) {
+                _index = j + i * itemCount;
+                <span class="keyword">if</span> (_index &gt; plength) {
+                    <span class="keyword">break</span>;
+                }
+                <span class="comment">//console.log(j);</span>
+                <span class="keyword">if</span> (j % <span class="number">2</span> != <span class="number">0</span>) {
+                    pstrs = attr;
+                    L1 = i * xiejiao + <span class="string">"r45t-0"</span>;
+                    H1 = j == <span class="number">1</span> ? <span class="number">0</span> : (j - <span class="number">1</span>) / <span class="number">2</span> * xiejiao;
+                    imagesH1 = (xiejiao - <span class="number">40</span>) / <span class="number">2</span> + xiejiao * i;
+                    imagesL1 = H1 + <span class="number">30</span>;
+
+                    <span class="comment">//console.log("奇数:" + j + ":" + H1 + "  " + L1 + "图:" +imagesL1+ ":"+ imagesH1);</span>
+                } <span class="keyword">else</span> {
+                    pstrs = attr2;
+                    L1 = (i * xiejiao + xiejiao) + <span class="string">"r45t-"</span> + width;
+                    H1 = j / <span class="number">2</span> * xiejiao;
+                    imagesH1 = (<span class="number">0.5</span> * xiejiao + <span class="number">30</span> - <span class="number">40</span>) * <span class="number">2</span> + xiejiao * i;
+                    imagesL1 = (j / <span class="number">2</span> - <span class="number">0.5</span>) * xiejiao + <span class="number">35</span>;
+
+                    <span class="comment">//console.log("偶数:" + j + ":" + H1 + "  " + L1+ "图:" +imagesL1+ ":"+ imagesH1);</span>
+                }
+                <span class="comment">//绘制最底层的形状</span>
+                R.path(Raphael.format(<span class="string">"M{0},{1}h{2}v{3}h{4}z"</span>, x, y, width, height, -width)).transform(<span class="string">"t"</span> + H1 + <span class="string">","</span> + L1 + <span class="string">",0s1"</span>).attr(pstrs);
+                <span class="comment">//绘制内容图片</span>
+                R.image(<span class="string">"images/big_1.jpg"</span>, imagesL1, imagesH1, <span class="number">133</span>, <span class="number">40</span>); <span class="comment">//图片的位置及大小</span>
+                <span class="comment">//绘制遮罩层</span>
+                temp = R.path(Raphael.format(<span class="string">"M{0},{1}h{2}v{3}h{4}z"</span>, x, y, width, height, -width)).transform(<span class="string">"t"</span> + H1 + <span class="string">","</span> + L1 + <span class="string">",0s1"</span>).attr(attr3);
+                <span class="comment">//绘制遮罩层上面的说明文字</span>
+                R.text(imagesL1 + <span class="number">20</span>, imagesH1 + <span class="number">20</span>, <span class="string">"60."</span> + _index+<span class="string">"a"</span>).attr(attr4).data(<span class="string">"i"</span>, _index+<span class="string">"a"</span>);
+
+                key = <span class="string">"vic"</span> + _index;
+                aus[key] = temp;
+            }
+        }
+        <span class="keyword">for</span> (<span class="keyword">var</span> state <span class="keyword">in</span> aus) {
+            aus[state].color = Raphael.getColor();
+            (<span class="function"><span class="keyword">function</span><span class="params">(st, state)</span> {</span>
+                st[<span class="number">0</span>].style.cursor = <span class="string">"pointer"</span>;
+                <span class="comment">//console.log(st.next[0].childNodes[0].innerHTML.length*parseInt(st.next[0].style.fontSize)/2);</span>
+                st.next[<span class="number">0</span>].onmouseover = <span class="function"><span class="keyword">function</span><span class="params">()</span> {</span>
+                    st.animate({
+                        <span class="string">"opacity"</span>: <span class="string">".5"</span>
+                    });
+                    st.next.animate({
+                        <span class="string">"opacity"</span>: <span class="string">"1.0"</span>
+                    });
+                };
+                st.next[<span class="number">0</span>].onmouseout = <span class="function"><span class="keyword">function</span><span class="params">()</span> {</span>
+                    st.animate({
+                        <span class="string">"opacity"</span>: <span class="string">"0"</span>
+                    });
+                    st.next.animate({
+                        <span class="string">"opacity"</span>: <span class="string">"0"</span>
+                    });
+                };
+                st[<span class="number">0</span>].onmouseover = <span class="function"><span class="keyword">function</span><span class="params">()</span> {</span>
+                    st.animate({
+                        <span class="string">"opacity"</span>: <span class="string">".5"</span>
+                    });
+                    st.next.animate({
+                        <span class="string">"opacity"</span>: <span class="string">"1.0"</span>
+                    });
+                };
+                st[<span class="number">0</span>].onmouseout = <span class="function"><span class="keyword">function</span><span class="params">()</span> {</span>
+                    st.animate({
+                        <span class="string">"opacity"</span>: <span class="string">"0"</span>
+                    });
+                    st.next.animate({
+                        <span class="string">"opacity"</span>: <span class="string">"0"</span>
+                    });
+                };
+            })(aus[state], state);
+        };
+    })(Raphael,<span class="number">146</span>);
+    </span><span class="tag">&lt;/<span class="title">script</span>&gt;</span>
+<span class="tag">&lt;/<span class="title">body</span>&gt;</span>
+
+<span class="tag">&lt;/<span class="title">html</span>&gt;</span>
+</pre></td></tr></table></figure>
+
+]]></content>
+    
+    
+      <category term="技术" scheme="http://fangcao7618.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[欢迎使用 Cmd - 在线 Markdown]]></title>
+    <link href="http://fangcao7618.github.io/2014/04/16/my-new-post/"/>
+    <id>http://fangcao7618.github.io/2014/04/16/my-new-post/</id>
+    <published>2014-04-16T04:38:29.000Z</published>
+    <updated>2014-04-16T07:51:08.000Z</updated>
+    <content type="html"><![CDATA[<hr>
+<p><a href="https://www.zybuluo.com/mdeditor" title="作业部落旗下 Cmd 在线 Markdown 编辑阅读器" target="_blank">『Cmd 技术渲染的沙箱页面，点击此处编写自己的文档』</a></p>
+<h1 id="Cmd_Markdown_简明语法手册">Cmd Markdown 简明语法手册</h1>
+<p>标签： Cmd-Markdown</p>
+<hr>
+<h3 id="1-_斜体和粗体">1. 斜体和粗体</h3>
+<p>使用 <em> 和 *</em> 表示斜体和粗体。</p>
+<p>示例：</p>
+<p>这是 <em>斜体</em>，这是 <strong>粗体</strong>。</p>
+<h3 id="2-_分级标题">2. 分级标题</h3>
+<p>使用 === 表示一级标题，使用 —- 表示二级标题。</p>
+<p>示例：</p>
+<figure class="highlight"><table><tr><td class="gutter"><pre>1
+2
+3
+4
+5
+6
+7
+</pre></td><td class="code"><pre><span class="header">这是一个一级标题
+============================</span>
+
+<span class="header">这是一个二级标题
+--------------------------------------------------</span>
+
+### 这是一个三级标题
+</pre></td></tr></table></figure>
+
+<p>你也可以选择在行首加井号表示不同级别的标题 (H1-H6)，例如：# H1, ## H2, ### H3，#### H4。</p>
+<h3 id="3-_外链接">3. 外链接</h3>
+<p>使用 [描述](链接地址) 为文字增加外链接。</p>
+<p>示例：</p>
+<p>这是去往 <a href="http://ghosertblog.github.com" target="_blank">本人博客</a> 的链接。</p>
+<h3 id="4-_无序列表">4. 无序列表</h3>
+<p>使用 *，+，- 表示无序列表。</p>
+<p>示例：</p>
+<ul>
+<li>无序列表项 一</li>
+<li>无序列表项 二</li>
+<li>无序列表项 三</li>
+</ul>
+<h3 id="5-_有序列表">5. 有序列表</h3>
+<p>使用数字和点表示有序列表。</p>
+<p>示例：</p>
+<ol>
+<li>有序列表项 一</li>
+<li>有序列表项 二</li>
+<li>有序列表项 三</li>
+</ol>
+<h3 id="6-_文字引用">6. 文字引用</h3>
+<p>使用 &gt; 表示文字引用。</p>
+<p>示例：</p>
+<blockquote>
+<p>野火烧不尽，春风吹又生。</p>
+</blockquote>
+<h3 id="7-_行内代码块">7. 行内代码块</h3>
+<p>使用 `代码` 表示行内代码块。</p>
+<p>示例：</p>
+<p>让我们聊聊 <code>html</code>。</p>
+<h3 id="8-_代码块">8.  代码块</h3>
+<p>使用 四个缩进空格 表示代码块。</p>
+<p>示例：</p>
+<pre><code>这是一个代码块，此行左侧有四个不可见的空格。
+</code></pre><h3 id="9-_插入图像">9.  插入图像</h3>
+<p>使用 ![描述](图片链接地址) 插入图像。</p>
+<p>示例：</p>
+<p><img src="https://www.zybuluo.com/static/img/my_head.jpg" alt="我的头像"></p>
+<h1 id="Cmd_Markdown_高阶语法手册">Cmd Markdown 高阶语法手册</h1>
+<h3 id="1-_内容目录">1. 内容目录</h3>
+<p>在段落中填写 <code>[TOC]</code> 以显示全文内容的目录结构。</p>
+<p>[TOC]</p>
+<h3 id="2-_标签分类">2. 标签分类</h3>
+<p>在编辑区任意行的列首位置输入以下代码给文稿标签：</p>
+<p>标签： 数学 英语 Markdown</p>
+<p>或者</p>
+<p>Tags： 数学 英语 Markdown</p>
+<h3 id="3-_删除线">3. 删除线</h3>
+<p>使用 ~~ 表示删除线。</p>
+<p><del>这是一段错误的文本。</del></p>
+<h3 id="4-_注脚">4. 注脚</h3>
+<p>使用 [^keyword] 表示注脚。</p>
+<p>这是一个注脚[^footnote]的样例。</p>
+<p>这是第二个注脚[^footnote2]的样例。</p>
+<h3 id="5-_LaTeX_公式">5. LaTeX 公式</h3>
+<p>$ 表示行内公式： </p>
+<p>质能守恒方程可以用一个很简洁的方程式 $E=mc^2$ 来表达。</p>
+<p>$$ 表示整行公式：</p>
+<p>$$\sum_{i=1}^n a_i=0$$</p>
+<p>$$f(x_1,x_x,\ldots,x_n) = x_1^2 + x_2^2 + \cdots + x_n^2 $$</p>
+<p>$$\sum^{j-1}<em>{k=0}{\widehat{\gamma}</em>{kj} z_k}$$</p>
+<p>访问 <a href="http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference" target="_blank">MathJax</a> 参考更多使用方法。</p>
+<h3 id="6-_加强的代码块">6. 加强的代码块</h3>
+<p>支持四十一种编程语言的语法高亮的显示，行号显示。</p>
+<p>非代码示例：</p>
+<figure class="highlight"><table><tr><td class="gutter"><pre>1
+</pre></td><td class="code"><pre>$ sudo apt<span class="attribute">-get</span> install vim<span class="attribute">-gnome</span>
+</pre></td></tr></table></figure>
+
+<p>Python 示例：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre>1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+</pre></td><td class="code"><pre><span class="decorator">@requires_authorization</span>
+<span class="function"><span class="keyword">def</span> <span class="title">somefunc</span><span class="params">(param1=<span class="string">''</span>, param2=<span class="number">0</span>)</span>:</span>
+    <span class="string">'''A docstring'''</span>
+    <span class="keyword">if</span> param1 &gt; param2: <span class="comment"># interesting</span>
+        <span class="keyword">print</span> <span class="string">'Greater'</span>
+    <span class="keyword">return</span> (param2 - param1 + <span class="number">1</span>) <span class="keyword">or</span> <span class="keyword">None</span>
+
+<span class="class"><span class="keyword">class</span> <span class="title">SomeClass</span>:</span>
+    <span class="keyword">pass</span>
+
+<span class="prompt">&gt;&gt;&gt; </span>message = <span class="string">'''interpreter
+<span class="prompt">... </span>prompt'''</span>
+</pre></td></tr></table></figure>
+
+<p>JavaScript 示例：</p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre>1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+</pre></td><td class="code"><pre><span class="comment">/**
+* nth element in the fibonacci series.
+* @param n &gt;= 0
+* @return the nth element, &gt;= 0.
+*/</span>
+<span class="function"><span class="keyword">function</span> <span class="title">fib</span><span class="params">(n)</span> {</span>
+  <span class="keyword">var</span> a = <span class="number">1</span>, b = <span class="number">1</span>;
+  <span class="keyword">var</span> tmp;
+  <span class="keyword">while</span> (--n &gt;= <span class="number">0</span>) {
+    tmp = a;
+    a += b;
+    b = tmp;
+  }
+  <span class="keyword">return</span> a;
+}
+
+document.write(fib(<span class="number">10</span>));
+</pre></td></tr></table></figure>
+
+<h3 id="7-_表格支持">7. 表格支持</h3>
+<p>示例：</p>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th style="text-align:right">价格</th>
+<th style="text-align:center">数量</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>计算机</td>
+<td style="text-align:right">$1600</td>
+<td style="text-align:center">5</td>
+</tr>
+<tr>
+<td>手机</td>
+<td style="text-align:right">$12</td>
+<td style="text-align:center">12</td>
+</tr>
+<tr>
+<td>管线</td>
+<td style="text-align:right">$1</td>
+<td style="text-align:center">234</td>
+</tr>
+</tbody>
+</table>
+<h3 id="8-_定义型列表">8. 定义型列表</h3>
+<p>名词 1<br>:   定义 1（左侧有一个可见的冒号和四个不可见的空格）</p>
+<p>代码块 2<br>:   这是代码块的定义（左侧有一个可见的冒号和四个不可见的空格）</p>
+<pre><code>    代码块（左侧有八个不可见的空格）
+</code></pre><p>[^footnote]: 这是一个 <em>注脚</em> 的 <strong>文本</strong>。</p>
+<p>[^footnote2]: 这是另一个 <em>注脚</em> 的 <strong>文本</strong>。</p>
+<p>地址链接：<a href="http://zipperary.#com/2013/05/22/introduction-to-markdown/" target="_blank">Introduction to markdown</a>;</p>
+<p><a href="https://www.zybuluo.com/mdeditor" target="_blank">https://www.zybuluo.com/mdeditor</a></p>
+<figure class="highlight"><table><tr><td class="gutter"><pre>1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+</pre></td><td class="code"><pre><span class="header"># Cmd Markdown 简明语法手册</span>
+
+标签： Cmd-Markdown
+
+<span class="horizontal_rule">---</span>
+
+<span class="header">### 1. 斜体和粗体</span>
+
+使用 <span class="bullet">* 和 *</span>* 表示斜体和粗体。
+
+示例：
+
+这是 <span class="emphasis">*斜体*</span>，这是 <span class="strong">**粗体**</span>。
+
+<span class="header">### 2. 分级标题</span>
+
+使用 === 表示一级标题，使用 --- 表示二级标题。
+
+示例：
+</pre></td></tr></table></figure>
+
+<h1 id="这是一个一级标题">这是一个一级标题</h1>
+<h2 id="这是一个二级标题">这是一个二级标题</h2>
+<h3 id="这是一个三级标题">这是一个三级标题</h3>
+<figure class="highlight"><table><tr><td class="gutter"><pre>1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+</pre></td><td class="code"><pre>
+你也可以选择在行首加井号表示不同级别的标题 (H1-H6)，例如：# H1, ## H2, ### H3，#### H4。
+
+<span class="header">### 3. 外链接</span>
+
+使用 \[<span class="link_label">描述</span>](<span class="link_url">链接地址</span>) 为文字增加外链接。
+
+示例：
+
+这是去往 [<span class="link_label">本人博客</span>](<span class="link_url">http://ghosertblog.github.com</span>) 的链接。
+
+<span class="header">### 4. 无序列表</span>
+
+使用 *，+，- 表示无序列表。
+
+示例：
+
+<span class="bullet">- </span>无序列表项 一
+<span class="bullet">- </span>无序列表项 二
+<span class="bullet">- </span>无序列表项 三
+
+<span class="header">### 5. 有序列表</span>
+
+使用数字和点表示有序列表。
+
+示例：
+
+<span class="bullet">1. </span>有序列表项 一
+<span class="bullet">2. </span>有序列表项 二
+<span class="bullet">3. </span>有序列表项 三
+
+<span class="header">### 6. 文字引用</span>
+
+使用 &gt; 表示文字引用。
+
+示例：
+
+<span class="blockquote">&gt; 野火烧不尽，春风吹又生。</span>
+
+<span class="header">### 7. 行内代码块</span>
+
+使用 \<span class="code">`代码`</span> 表示行内代码块。
+
+示例：
+
+让我们聊聊 <span class="code">`html`</span>。
+
+<span class="header">### 8.  代码块</span>
+
+使用 四个缩进空格 表示代码块。
+
+示例：
+
+<span class="code">    这是一个代码块，此行左侧有四个不可见的空格。</span>
+
+<span class="header">### 9.  插入图像</span>
+
+使用 \!\[<span class="link_label">描述</span>](<span class="link_url">图片链接地址</span>) 插入图像。
+
+示例：
+
+![<span class="link_label">我的头像</span>](<span class="link_url">https://www.zybuluo.com/static/img/my_head.jpg</span>)
+
+<span class="header"># Cmd Markdown 高阶语法手册</span>
+
+<span class="header">### 1. 内容目录</span>
+
+在段落中填写 <span class="code">`[TOC]`</span> 以显示全文内容的目录结构。
+
+[TOC]
+
+<span class="header">### 2. 标签分类</span>
+
+在编辑区任意行的列首位置输入以下代码给文稿标签：
+
+标签： 数学 英语 Markdown
+
+或者
+
+Tags： 数学 英语 Markdown
+
+<span class="header">### 3. 删除线</span>
+
+使用 ~~ 表示删除线。
+
+~~这是一段错误的文本。~~
+
+<span class="header">### 4. 注脚</span>
+
+使用 [^keyword] 表示注脚。
+
+这是一个注脚[^footnote]的样例。
+
+这是第二个注脚[^footnote2]的样例。
+
+<span class="header">### 5. LaTeX 公式</span>
+
+$ 表示行内公式： 
+
+质能守恒方程可以用一个很简洁的方程式 $E=mc^2$ 来表达。
+
+$$ 表示整行公式：
+
+$$\sum<span class="emphasis">_{i=1}^n a_</span>i=0$$
+
+$$f(x<span class="emphasis">_1,x_</span>x,\ldots,x<span class="emphasis">_n) = x_</span>1^2 + x<span class="emphasis">_2^2 + \cdots + x_</span>n^2 $$
+
+$$\sum^{j-1}<span class="emphasis">_{k=0}{\widehat{\gamma}_</span>{kj} z_k}$$
+
+访问 [<span class="link_label">MathJax</span>](<span class="link_url">http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference</span>) 参考更多使用方法。
+
+<span class="header">### 6. 加强的代码块</span>
+
+支持四十一种编程语言的语法高亮的显示，行号显示。
+
+非代码示例：
+</pre></td></tr></table></figure>
+
+<p>$ sudo apt-get install vim-gnome</p>
+<figure class="highlight"><table><tr><td class="gutter"><pre>1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+</pre></td><td class="code"><pre>
+Python 示例：
+
+```python
+<span class="decorator">@requires_authorization</span>
+<span class="function"><span class="keyword">def</span> <span class="title">somefunc</span><span class="params">(param1=<span class="string">''</span>, param2=<span class="number">0</span>)</span>:</span>
+    <span class="string">'''A docstring'''</span>
+    <span class="keyword">if</span> param1 &gt; param2: <span class="comment"># interesting</span>
+        <span class="keyword">print</span> <span class="string">'Greater'</span>
+    <span class="keyword">return</span> (param2 - param1 + <span class="number">1</span>) <span class="keyword">or</span> <span class="keyword">None</span>
+
+<span class="class"><span class="keyword">class</span> <span class="title">SomeClass</span>:</span>
+    <span class="keyword">pass</span>
+
+<span class="prompt">&gt;&gt;&gt; </span>message = <span class="string">'''interpreter
+<span class="prompt">... </span>prompt'''</span>
+</pre></td></tr></table></figure>
+
+<p>JavaScript 示例：</p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre>1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+</pre></td><td class="code"><pre><span class="comment">/**
+* nth element in the fibonacci series.
+* @param n &gt;= 0
+* @return the nth element, &gt;= 0.
+*/</span>
+<span class="function"><span class="keyword">function</span> <span class="title">fib</span><span class="params">(n)</span> {</span>
+  <span class="keyword">var</span> a = <span class="number">1</span>, b = <span class="number">1</span>;
+  <span class="keyword">var</span> tmp;
+  <span class="keyword">while</span> (--n &gt;= <span class="number">0</span>) {
+    tmp = a;
+    a += b;
+    b = tmp;
+  }
+  <span class="keyword">return</span> a;
+}
+
+document.write(fib(<span class="number">10</span>));
+</pre></td></tr></table></figure>
+
+<h3 id="7-_表格支持-1">7. 表格支持</h3>
+<p>示例：</p>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th style="text-align:right">价格</th>
+<th style="text-align:center">数量</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>计算机</td>
+<td style="text-align:right">$1600</td>
+<td style="text-align:center">5</td>
+</tr>
+<tr>
+<td>手机</td>
+<td style="text-align:right">$12</td>
+<td style="text-align:center">12</td>
+</tr>
+<tr>
+<td>管线</td>
+<td style="text-align:right">$1</td>
+<td style="text-align:center">234</td>
+</tr>
+</tbody>
+</table>
+<h3 id="8-_定义型列表-1">8. 定义型列表</h3>
+<p>名词 1<br>:   定义 1（左侧有一个可见的冒号和四个不可见的空格）</p>
+<p>代码块 2<br>:   这是代码块的定义（左侧有一个可见的冒号和四个不可见的空格）</p>
+<pre><code>    代码块（左侧有八个不可见的空格）
+</code></pre><p>[^footnote]: 这是一个 <em>注脚</em> 的 <strong>文本</strong>。</p>
+<p>[^footnote2]: 这是另一个 <em>注脚</em> 的 <strong>文本</strong>。<br>```</p>
+]]></content>
+    
+    
+      <category term="博客，文章" scheme="http://fangcao7618.github.io/tags/%E5%8D%9A%E5%AE%A2%EF%BC%8C%E6%96%87%E7%AB%A0/"/>
+    
+      <category term="blog" scheme="http://fangcao7618.github.io/categories/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://fangcao7618.github.io/2014/04/16/hello-world/"/>
+    <id>http://fangcao7618.github.io/2014/04/16/hello-world/</id>
+    <published>2014-04-16T02:12:47.000Z</published>
+    <updated>2014-04-16T08:33:06.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="公式">公式</h2>
+<p>$$ 表示整行公式：</p>
+<p>$$\sum_{i=1}^n a_i=0$$</p>
+<p>$$f(x_1,x_x,\ldots,x_n) = x_1^2 + x_2^2 + \cdots + x_n^2 $$</p>
+<p>$$\sum^{j-1}<em>{k=0}{\widehat{\gamma}</em>{kj} z_k}$$</p>
+<p>Welcome to <a href="http://zespia.tw/hexo" target="_blank">Hexo</a>! This is your very first post. Check <a href="http://zespia.tw/hexo/docs" target="_blank">documentation</a> to learn how to use.</p>
+]]></content>
+    
+    
+      <category term="博客，文章" scheme="http://fangcao7618.github.io/tags/%E5%8D%9A%E5%AE%A2%EF%BC%8C%E6%96%87%E7%AB%A0/"/>
+    
+  </entry>
+  
+</feed>
